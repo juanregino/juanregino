@@ -34,7 +34,7 @@
      <br>
       <img src="https://skillicons.dev/icons?i=py,spring,mysql,java" />
           <br>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,astro" />
   </a>
 
 
